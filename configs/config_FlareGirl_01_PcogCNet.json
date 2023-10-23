@@ -74,7 +74,7 @@
     "negative_prompt": [
         "blurry, man, ugly, old,"
     ],
-    "output_dir": "./multiple_inputs/FlareGirl_01_PcogCNet/",
+    "output_dir": "./multiple_inputs/FlareGirl_02_PcogCNet/",
     "do_controlnet": true,
     "do_inpaint": true,
     "run_sega": false,
