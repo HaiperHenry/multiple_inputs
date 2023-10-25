@@ -51,10 +51,10 @@
         ]
     ],
     "prompt": [
-        "red leather jacket, stylish, fashion,"
+        "lady going up an escalator, woman wearing red leather jacket, stylish, fashion, African,"
     ],
     "negative_prompt": [
-        "green,"
+        "green jacket,"
     ],
     "output_dir": "./multiple_inputs/Escelator_01_Pcog/",
     "do_controlnet": false,
