@@ -74,7 +74,7 @@
         "blurry, economy car,"
     ],
     "output_dir": "./multiple_inputs/CarChase_02_PcogCNet/",
-    "do_controlnet": false,
+    "do_controlnet": true,
     "do_inpaint": true,
     "run_sega": false,
     "sega_guidance_scale": [
