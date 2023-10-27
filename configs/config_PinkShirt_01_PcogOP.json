@@ -1,0 +1,78 @@
+{
+    "video_path": [
+        "./multiple_inputs/videos/PinkShirt_01_Vid_TM.mp4",
+        "./multiple_inputs/videos/PinkShirt_01_Vid_SM.mp4",
+        "./multiple_inputs/videos/PinkShirt_01_Vid_SME.mp4",
+        "./multiple_inputs/videos/PinkShirt_01_Vid_SMEF.mp4",
+        "./multiple_inputs/videos/PinkShirt_01_Vid_BM.mp4",
+        "./multiple_inputs/videos/PinkShirt_01_Vid_BME.mp4",
+        "./multiple_inputs/videos/PinkShirt_01_Vid_BMEF.mp4"
+    ],
+    "mask_video_path": [
+        "./multiple_inputs/mask_videos/PinkShirt_01_TM.mp4",
+        "./multiple_inputs/mask_videos/PinkShirt_01_SM.mp4",
+        "./multiple_inputs/mask_videos/PinkShirt_01_SME.mp4",
+        "./multiple_inputs/mask_videos/PinkShirt_01_SMEF.mp4",
+        "./multiple_inputs/mask_videos/PinkShirt_01_BM.mp4",
+        "./multiple_inputs/mask_videos/PinkShirt_01_BME.mp4",
+        "./multiple_inputs/mask_videos/PinkShirt_01_BMEF.mp4"
+    ],
+    "strength": [
+        0.9
+    ],
+    "width_height": [
+        [
+            448,
+            640
+        ]
+    ],
+    "num_steps": [
+        40
+    ],
+    "seed": [
+        888
+    ],
+    "guidance_scale": [
+        20
+    ],
+    "num_frames": [
+        16
+    ],
+
+    "controlnet_type": [
+        [
+            "openpose"
+        ]
+
+    ],
+    "controlnet_weights": [
+        [
+            "1.0"
+        ]
+    ],
+    "prompt": [
+        "woman, pink dress, beautiful,"
+    ],
+    "negative_prompt": [
+        "blurry, man, casual,"
+    ],
+    "output_dir": "./multiple_inputs/PinkShirt_01_PcogOP/",
+    "do_controlnet": true,
+    "do_inpaint": true,
+    "run_sega": false,
+    "sega_guidance_scale": [
+        20
+    ],
+    "sega_threshold": [
+        0.5
+    ],
+    "sega_momentum_scale": [
+        0.5
+    ],
+    "sega_mom_beta": [
+        0.5
+    ],
+    "load_ema": true,
+    "use_free_u": true,
+    "haiper_vae": true
+}
