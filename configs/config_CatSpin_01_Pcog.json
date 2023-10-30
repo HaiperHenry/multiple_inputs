@@ -9,13 +9,13 @@
         "./multiple_inputs/videos/CatSpin_01_Vid_BMEF.mp4"
     ],
     "mask_video_path": [
-        "./multiple_inputs/mask_videos/CatSpin_01_Mask_01_TM.mp4",
-        "./multiple_inputs/mask_videos/CatSpin_01_Mask_01_SM.mp4",
-        "./multiple_inputs/mask_videos/CatSpin_01_Mask_01_SME.mp4",
-        "./multiple_inputs/mask_videos/CatSpin_01_Mask_01_SMEF.mp4",
-        "./multiple_inputs/mask_videos/CatSpin_01_Mask_01_BM.mp4",
-        "./multiple_inputs/mask_videos/CatSpin_01_Mask_01_BME.mp4",
-        "./multiple_inputs/mask_videos/CatSpin_01_Mask_01_BMEF.mp4"
+        "./multiple_inputs/mask_videos/CatSpin_01_TM.mp4",
+        "./multiple_inputs/mask_videos/CatSpin_01_SM.mp4",
+        "./multiple_inputs/mask_videos/CatSpin_01_SME.mp4",
+        "./multiple_inputs/mask_videos/CatSpin_01_SMEF.mp4",
+        "./multiple_inputs/mask_videos/CatSpin_01_BM.mp4",
+        "./multiple_inputs/mask_videos/CatSpin_01_BME.mp4",
+        "./multiple_inputs/mask_videos/CatSpin_01_BMEF.mp4"
     ],
     "strength": [
         0.9
