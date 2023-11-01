@@ -69,12 +69,12 @@
         ]
     ],
     "prompt": [
-        "raccoon,"
+        "puppy,"
     ],
     "negative_prompt": [
         "blurry, human, cat,"
     ],
-    "output_dir": "./multiple_inputs/CatSpin_02_PcogCNet/",
+    "output_dir": "./multiple_inputs/CatSpin_03_PcogCNet/",
     "do_controlnet": true,
     "do_inpaint": true,
     "run_sega": false,
